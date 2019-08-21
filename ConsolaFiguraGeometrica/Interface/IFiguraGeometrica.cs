@@ -9,7 +9,7 @@ namespace ConsolaFiguraGeometrica.Interface
     public interface IFiguraGeometrica
     {
         float CalcularArea();
-        float CalcuarPerimetro();
+        float CalcularPerimetro();
         string ObtenerNombre();
     }
 }
